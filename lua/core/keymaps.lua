@@ -121,7 +121,7 @@ option.cursorline = true
 
 vim.o.t_ut = ''
 
--- option.termguicolors  = true
+option.termguicolors  = true
 
 -- signcolumn settings --
 option.signcolumn = 'auto' 
