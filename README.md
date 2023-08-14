@@ -1,20 +1,16 @@
 ```
-
-├── after
-│   └── plugin
-│       └── custom.lua
+.
+├── README.md
 ├── init.lua
-├── lua
-│   ├── core
-│   │   ├── keymaps.lua
-│   │   ├── options.lua
-│   │   └── plugins.lua
-│   └── plugins
-│       ├── configs
-│       │   ├── cmp.lua
-│       │   ├── lsp.lua
-│       │   └── treesitter.lua
-│       └── init.lua
-└── plugin
-    └── packer_compiled.lua
+├── lazy-lock.json
+└── lua
+    ├── core
+    │   ├── keymaps.lua
+    │   ├── options.lua
+    │   └── plugins.lua
+    ├── lazy_nvim.lua
+    └── plugins
+        └── configs
+            ├── theme.lua
+            └── ui.lua
 ```
