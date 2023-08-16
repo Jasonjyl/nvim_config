@@ -99,7 +99,7 @@ option.scrolloff = 20
 option.filetype = 'on'  
 -- vim.o.filetype = 'indent' 
 -- vim.o.filetype = 'plugin'
-option.filetype = { "plugin', 'indent" }
+option.filetype = "plugin", "indent"
 
 option.backspace = { "indent", "eol", "start" }
 
